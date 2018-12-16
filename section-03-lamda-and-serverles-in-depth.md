@@ -13,7 +13,7 @@
 - Single line strings spanning multiple lines (using `>` on first line)
 
 
-## 17. JSON To YAM Practice Exercise
+## 17. JSON To YAML Practice Exercise
 - Exercise
 
 

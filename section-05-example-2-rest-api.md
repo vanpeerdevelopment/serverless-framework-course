@@ -10,7 +10,7 @@
     - `aws-sdk`: aws npm package
     - return a json object with `statusCode` and `body` when working with API Gateway
 - `serverless.yml`
-    - `${opt:variable}`: variable passed when running `serverless
+    - `${opt:variable}`: variable passed when running `serverless`
     - `resources`: pass a CloudFormation template to create necessary resources, e.g. DynamoDB table
 
 
